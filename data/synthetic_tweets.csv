@@ -1,0 +1,6 @@
+id,text,sentiment
+1,"I love this new update!","positive"
+2,"This is the worst service ever.","negative"
+3,"It's okay, nothing special.","neutral"
+4,"Snappy UI and great performance.","positive"
+5,"Waiting for hours for a response.","negative"

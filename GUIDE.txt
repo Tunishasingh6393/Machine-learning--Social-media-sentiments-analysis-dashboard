@@ -1,0 +1,48 @@
+=============================================================
+SOCIAL MEDIA SENTIMENT ANALYSIS DASHBOARD - PROJECT GUIDE
+=============================================================
+
+This guide helps you set up and showcase this project on GitHub.
+
+1. PROJECT EXPLANATION
+---------------------
+Sentiment Analysis uses Natural Language Processing (NLP) to detect the 
+emotional tone of text. Companies use this to monitor brand health, 
+customer satisfaction, and marketing ROI. 
+
+2. TECH STACK (Modern Choice)
+---------------------------
+- Frontend: React / Tailwind CSS
+- Data Viz: Recharts
+- AI: Google Gemini v3 (LLM-based)
+- Backend: Express.js
+
+3. PROFESSIONAL GITHUB STRUCTURE
+-------------------------------
+Your repo now follows industry-standard layout:
+/data/           <- Store your social datasets here.
+/notebooks/      <- Keep your data science experiments (EDA).
+/models/         <- Place your pkl (serialized) models here.
+/app/            <- Contains a Python/Streamlit alternative dashboard.
+/src/            <- The main production code for this React dashboard.
+/main.py         <- The core ML script to train your sentiment model.
+/requirements.txt <- List of Python libraries (Scikit-learn, etc).
+
+4. GITHUB STEPS
+--------------
+1. Create a new public repo on GitHub named: "Social-Media-Sentiment-Dashboard".
+2. Initialize git: `git init`
+3. Add files: `git add .`
+4. Commit: `git commit -m "feat: first version of sentiment dashboard"`
+5. Push!
+
+5. PORTFOLIO CHECKLIST
+--------------------
+- [ ] Screenshot of the Dashboard
+- [ ] List of technologies used
+- [ ] Link to your portfolio/LinkedIn
+- [ ] Clear installation instructions
+
+=============================================================
+BUILD WITH PASSION - READY FOR YOUR CAREER!
+=============================================================

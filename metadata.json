@@ -1,0 +1,6 @@
+{
+  "name": "Social Media Sentiment Analysis Dashboard",
+  "description": "An AI-powered dashboard for analyzing social media sentiment in real-time, providing deep insights into brand reputation and customer feedback using Google Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["AI-Powered Analytics", "Real-time Sentiment Detection", "Data Visualization"]
+}
